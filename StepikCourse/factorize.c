@@ -1,5 +1,5 @@
 #include <stdio.h>
-void factorize(int n, int *a, int *b)
+void factorize(int n, int *a, int *b)  //Function of main action
 {
     int dil;
     *a = 1;
